@@ -1,39 +1,3 @@
-# TO-DO
-Fix CSS to change relative to the display size 
-
-# Personal Website
-This is a personal website that I've made by myself, I used figma to create the original design
-Then used a mix of node js and several libraries combined with html & css to create the website according to the design. 
-
-
-The validation with JS is all server sided express, clients will not be able to see your code at all. 
-
-License of the repository is available at the bottom, for further clarification please consider reading the license terms.
-
-## Requirements
-
-`Node.js`
-
-
-
-
-## How-To
-
-```
-1. Install Node.JS (LTS)
-2. Open Project and go to index.JS
-3. Enter your KeyAuth seller key in this field sellerkey
-4. Also please open the home.ejs file and change data-sellix-group to yours
-5. Open terminal
-6. Type npm init
-7. Next type npm i
-8. Now your site is ready type npm start
-
-note please also change the discord webhook as well for logs
-```
-
-## License
-
 MIT License
 
 Copyright (c) 2023 Possible
@@ -55,4 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
